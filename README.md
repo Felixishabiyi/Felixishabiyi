@@ -10,7 +10,7 @@ I am a Pharmacist also a Software Engineer that uses data-driven techniques (dat
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Python for Backend Development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Bioinformatics (Intern or Junior level).
+- 💼 Job interests: Bioinformatics, Pharmacogenomics, Research Scientist, Software Engineer(Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing felixishabiyi@gmail.com.
 
 ---
