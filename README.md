@@ -10,7 +10,7 @@ I am interested in designing medications that are tailored to individuals based 
 - 🌱 I’m currently learning Python for Backend Development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Bioinformatics, Pharmacogenomics, Research Scientist, Software Engineer(Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/drive/u/1/my-drive) and contact me by emailing felixishabiyi@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1yWtXR7lxfxQcy3hVEcUhGlOqJBAfH1pK/view?usp=sharing) and contact me by emailing felixishabiyi@gmail.com.
 
 ---
 
