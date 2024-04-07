@@ -7,8 +7,6 @@ I am interested in designing medications that are tailored to individuals based 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Python for Backend Development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Bioinformatics, Pharmacogenomics, Research Scientist, Software Engineer(Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1vTsGodqn-4SWledP0kZYsymOa4Rixzoe/view?usp=drive_link) and contact me by emailing felixishabiyi@gmail.com.
